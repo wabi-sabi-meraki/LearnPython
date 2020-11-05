@@ -1,0 +1,7 @@
+print("Hola mundo.")
+print("Hola otra vez.")
+print("Me gusta escribir esto.")
+print("Es muy divertido.")
+print("Si,imprimiendo.")
+print("Yo hago mucho sin embargo tu no.")
+print("Eh dicho que no toques esto.")
