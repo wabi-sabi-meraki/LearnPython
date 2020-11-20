@@ -5,11 +5,11 @@ script, archivo = argv
 txt = open(archivo)
 
 print(f"Aqui tu archvo {archivo}:")
-print(txt.read())
+print(txt)
 
 print("Tipo de archivo otravez:")
 archivo_otravez = input("> ")
 
-txt_otravez = abrir(archivo_otravez)
+txt_otravez = open(archivo_otravez)
 
 print(txt_otravez.read())
